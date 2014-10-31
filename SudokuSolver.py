@@ -2,6 +2,9 @@
 # Solves Sudoku puzzles. The input must be a .csv file with 9 lines, each
 # containing 9 comma-seperated digits. "0" represents an empty field.
 #
+# Run by typing "python SudokuSolver.py" in the command line. It will ask
+# you to specify the name of the input file.
+#
 # The output is stored in the file "solution.csv".
 #
 # Samuel Hertig
